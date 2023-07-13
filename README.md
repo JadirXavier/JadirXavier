@@ -17,7 +17,7 @@
 
 - 🌱 Estou estudando **node.js e mongodb**
 
-- 👨‍💻Portfólio [link](https://jadirxavier.github.io/portfolio/)
+- 👨‍💻 Portfólio [link](https://jadirxavier.github.io/portfolio/)
 
 - 📄 Currículo [link](https://drive.google.com/file/d/1Q3W_htUxbX9JdBbl6sgKBoQ8k4l5QTjp/view?usp=sharing)
 

@@ -15,7 +15,7 @@
 
 ##
 
-- 🌱 Estou estudando **node.js e mongodb**
+- 🌱 Fazendo o curso: **CS50’s Introduction to Programming with Python**
 
 - 👨‍💻 Portfólio [link](https://jadirxavier.github.io/portfolio/)
 

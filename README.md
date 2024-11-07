@@ -26,7 +26,7 @@
 
 - 👨‍💻 Portfólio [link](https://jadirxavier.github.io/portfolio/)
 
-- 📄 Currículo [link](https://drive.google.com/file/d/1Q3W_htUxbX9JdBbl6sgKBoQ8k4l5QTjp/view?usp=sharing)
+- 📄 Currículo [link](https://drive.google.com/file/d/1uU9XoyFESF7LWOqEGrDh8VYd2UQQMam0/view?usp=sharing)
 
 ##
 
